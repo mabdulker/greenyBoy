@@ -1,5 +1,5 @@
 # Greeny Boy
-Ever thought 'how to look like a good coder without coding?', Greeny Boy to the rescue. 
+Ever thought "how to look like a good coder without coding?", Greeny Boy to the rescue. 
 Greeny Boy is a bot programme to stack your GitHub activity.
 
 ### The above code only executes the commit part, in order to make it execute every day you will have to create a *cron* task:
